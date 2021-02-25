@@ -49,7 +49,7 @@ function init(){
         resultado.textContent = resultado.textContent  + "8";
     }
     nueve.onclick = function(e){
-        resultado.textContent = resultado.textContent  + "8";
+        resultado.textContent = resultado.textContent  + "9";
     }
     cero.onclick = function(e){
         resultado.textContent = resultado.textContent  + "0";
